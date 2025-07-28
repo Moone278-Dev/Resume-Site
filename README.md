@@ -1,3 +1,3 @@
-View the Project by cloning repo for rightnow to see before published
+My Resume
 
-https://github.com/Moone278-Dev/Resume-Site/tree/main#
+https://moone278-dev.github.io/Resume-Site/
